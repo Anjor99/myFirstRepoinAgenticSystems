@@ -1,0 +1,13 @@
+Name,Age,StudyHours,Score,Label
+Alice,21,5,85,Pass
+Bob,22,3,72,Pass
+Charlie,23,6,91,Pass
+David,24,4,65,Fail
+Eva,22,7,88,Pass
+Frank,25,2,55,Fail
+Grace,21,5,79,Pass
+Helen,26,6,93,Pass
+Ian,24,3,68,Fail
+Jack,23,4,82,Pass
+Kevin,22,6,90,Pass
+Laura,25,2,60,Fail
